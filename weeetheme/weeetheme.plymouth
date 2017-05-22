@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=WeeeOpen Theme
+Description=A theme that features an animated Ubuntu GNOME logo.
+ModuleName=script
+
+[script]
+ImageDir=/home/fabio/Immagini/weeeopen/plymouth
+ScriptFile=/usr/share/plymouth/themes/weeetheme/ubuntu-gnome-logo.script
